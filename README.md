@@ -3,8 +3,9 @@ sandbox/audit-manage/AuditList.js
 ###
 sandbox/audit-manage/Audit.js
 ###
-publish-manage/NewsPublish.js 
-colomns中部分为测试代码
+publish-manage/NewsPublish.js
+###
+以上文件中colomns中部分为测试代码
 ###
 news-manage/NewsAdd.js需修改select
 ###
