@@ -11,4 +11,4 @@ news-manage/NewsAdd.js
 ###
 其中select为测试代码
 ###
-db.json为数据库
+db.json为数据库 含用户名密码
